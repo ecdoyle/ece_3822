@@ -1,2 +1,2 @@
-My magic number is actually 42. 
+I messed up and changed it in master, so then I just made a branch for the messed up one and now I switched to develop, so this change is in develop. My bad. 
 
